@@ -75,13 +75,11 @@ TBD
 
 
 # Project Structure
-docs/ – Project requirements, written reports, documentation, and other supporting materials. sql/ – SQL scripts used to create tables, insert data, retrieve information, and implement database functionality. design/ – Entity Relationship Diagrams (ERDs), database models, and other design-related files.
 - README.md
-- design
-- docs
-- sql
+- design/ Entity Relationship Diagrams (ERDs), database models, and other design-related files.
+- docs/ Project requirements, written reports, documentation, and other supporting materials
+- sql/ SQL scripts used to create tables, insert data, retrieve information, and implement database functionality. 
 
-This project does not include SQL scripts yet; it focuses on the database design. To view the model, download MySQL Workbench and open the .mwb file (File → Open Model).
 
 # Team Contributions
 - Ning Peng
