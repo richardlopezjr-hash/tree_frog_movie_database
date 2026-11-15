@@ -10,6 +10,38 @@ Tree Frog Movie Database is a centralized movie information system that stores a
 This database helps people who work in the movie industry and anyone interested in movies, look up related information.
 The purpose of the Tree Frog Movie Database is to provide a centralized, relational database that stores and organizes information about movies, actors, directors, producers, writers, awards, genres, ratings, soundtracks, and audience feedback. The system is designed to help audiences, critics, casting directors, and producers efficiently search, analyze, and discover connections within the film industry. By reducing data redundancy and improving access to interconnected information, the database supports informed decision-making, media research, talent discovery, and enhanced audience engagement.
 
+## Key Features of the Tree Frog Movie Database
+
+- Movie Information Management: Store and manage detailed information about films, including title, release year, genre/category, ratings, awards, locations, trailers, and soundtracks.
+
+- People and Biography Tracking: Maintain profiles for actors, directors, producers, and writers, including biographical details such as birth date, age, place of birth, and career information.
+
+- Filmography Search: View all movies associated with a specific actor, director, producer, or writer.
+
+- Awards Management: Track awards received by movies and individuals, including award type, year received, and associated film.
+
+- Genre and Category Classification: Organize movies by genres such as Action, Comedy, Horror, Animated, Superhero, and other categories to support discovery and recommendation.
+
+- Music and Soundtrack Information: Record and search soundtrack and music information linked to specific films.
+
+- Ratings and Reviews: Allow critics and audience members to submit ratings and feedback to support movie evaluation and engagement.
+
+- Advanced Search Capabilities: Search for films, actors, directors, writers, awards, genres, ratings, soundtracks, and related information through a centralized system.
+
+- Industry Research and Talent Discovery: Support casting directors and producers by providing actor histories, biographies, headshots, reels, and writer credits.
+
+- Relationship-Based Data Analysis: Connect movies, people, awards, genres, and ratings through relational database structures, making it easy to explore industry relationships and trends.
+
+- Data Consistency and Reduced Redundancy: Store information once and reuse it across related records, reducing duplicate data and improving database accuracy.
+
+- Decision Support: Provide data that can help users evaluate movie success factors, identify trends, and make informed casting, production, or viewing decisions.
+
+# Database Design
+EER included in repo
+
+# How to Run the SQL Scripts
+TBA - Provide clear instructions for setting up the database and executing your SQL files.
+
 # Technologies Used
 
 MySQL
@@ -52,39 +84,8 @@ docs/ – Project requirements, written reports, documentation, and other suppor
 This project does not include SQL scripts yet; it focuses on the database design. To view the model, download MySQL Workbench and open the .mwb file (File → Open Model).
 
 # Team Contributions
-Ning Peng, 
-Miguel Lasola, 
-Richard Lopez, 
+- Ning Peng
+- Miguel Lasola
+- Richard Lopez
 
 
-# Key Features of the Tree Frog Movie Database
-
-- Movie Information Management: Store and manage detailed information about films, including title, release year, genre/category, ratings, awards, locations, trailers, and soundtracks.
-
-- People and Biography Tracking: Maintain profiles for actors, directors, producers, and writers, including biographical details such as birth date, age, place of birth, and career information.
-
-- Filmography Search: View all movies associated with a specific actor, director, producer, or writer.
-
-- Awards Management: Track awards received by movies and individuals, including award type, year received, and associated film.
-
-- Genre and Category Classification: Organize movies by genres such as Action, Comedy, Horror, Animated, Superhero, and other categories to support discovery and recommendation.
-
-- Music and Soundtrack Information: Record and search soundtrack and music information linked to specific films.
-
-- Ratings and Reviews: Allow critics and audience members to submit ratings and feedback to support movie evaluation and engagement.
-
-- Advanced Search Capabilities: Search for films, actors, directors, writers, awards, genres, ratings, soundtracks, and related information through a centralized system.
-
-- Industry Research and Talent Discovery: Support casting directors and producers by providing actor histories, biographies, headshots, reels, and writer credits.
-
-- Relationship-Based Data Analysis: Connect movies, people, awards, genres, and ratings through relational database structures, making it easy to explore industry relationships and trends.
-
-- Data Consistency and Reduced Redundancy: Store information once and reuse it across related records, reducing duplicate data and improving database accuracy.
-
-- Decision Support: Provide data that can help users evaluate movie success factors, identify trends, and make informed casting, production, or viewing decisions.
-
-# Database Design
-EER included in repo
-
-# How to Run the SQL Scripts
-TBA - Provide clear instructions for setting up the database and executing your SQL files.
