@@ -62,9 +62,9 @@ Richard Lopez
 
 ## People and Biography Tracking: Maintain profiles for actors, directors, producers, and writers, including biographical details such as birth date, age, place of birth, and career information.
 
-Filmography Search: View all movies associated with a specific actor, director, producer, or writer.
+- Filmography Search: View all movies associated with a specific actor, director, producer, or writer.
 
-Awards Management: Track awards received by movies and individuals, including award type, year received, and associated film.
+- Awards Management: Track awards received by movies and individuals, including award type, year received, and associated film.
 
 Genre and Category Classification: Organize movies by genres such as Action, Comedy, Horror, Animated, Superhero, and other categories to support discovery and recommendation.
 
