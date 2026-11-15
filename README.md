@@ -56,11 +56,11 @@ Miguel Lasola
 Richard Lopez
 
 
-Database Features: Key Features of the Tree Frog Movie Database
+# Key Features of the Tree Frog Movie Database
 
-Movie Information Management: Store and manage detailed information about films, including title, release year, genre/category, ratings, awards, locations, trailers, and soundtracks.
+## Movie Information Management: Store and manage detailed information about films, including title, release year, genre/category, ratings, awards, locations, trailers, and soundtracks.
 
-People and Biography Tracking: Maintain profiles for actors, directors, producers, and writers, including biographical details such as birth date, age, place of birth, and career information.
+## People and Biography Tracking: Maintain profiles for actors, directors, producers, and writers, including biographical details such as birth date, age, place of birth, and career information.
 
 Filmography Search: View all movies associated with a specific actor, director, producer, or writer.
 
